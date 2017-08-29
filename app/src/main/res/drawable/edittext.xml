@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+
+    android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <gradient android:centerColor="@color/keyguard_avatar_frame_pressed_color"
+        android:endColor="@color/Blue_800"
+        android:startColor="@color/Blue_800"
+        />
+
+    <corners
+        android:radius="40dp" />
+    <size
+        android:height="100dp"
+        android:width="100dp" />
+</shape>
